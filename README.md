@@ -101,6 +101,21 @@ Status: ✦ Completado
 
 ## `> cat ./education`
 
+<div align="center">
+
+![Máster](https://img.shields.io/badge/Máster-Ciberseguridad_&_IA-8B1A2F?style=for-the-badge&labelColor=0A0A0A&logoColor=F5F5F5)
+[![Evolve](https://img.shields.io/badge/Evolve-5C1020?style=for-the-badge&labelColor=8B1A2F&logoColor=F5F5F5)](https://evolve.es/formacion/masters/master-ciberseguridad-inteligencia-artificial-online/)
+![CURSANDO](https://img.shields.io/badge/Estado-CURSANDO-A8213A?style=for-the-badge&labelColor=8B1A2F&logoColor=F5F5F5)
+
+<br /><br />
+
+![Grado en Derecho](https://img.shields.io/badge/Grado-Derecho-111111?style=for-the-badge&labelColor=0A0A0A&logoColor=F5F5F5)
+![COMPLETADO](https://img.shields.io/badge/Estado-COMPLETADO-0A0A0A?style=for-the-badge&labelColor=111111&logoColor=F5F5F5)
+
+</div>
+
+<br />
+
 ```yaml
 formacion:
   - titulo: "Máster en Ciberseguridad e Inteligencia Artificial"
