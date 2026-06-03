@@ -1,127 +1,151 @@
-![Banner](https://raw.githubusercontent.com/marianamarinflor622/marianamarinflor622/main/banner.png)
+<div align="center">
 
-# Mariana Marín
+```
+███╗   ███╗ █████╗ ██████╗ ██╗ █████╗ ███╗   ██╗ █████╗
+████╗ ████║██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║██╔══██╗
+██╔████╔██║███████║██████╔╝██║███████║██╔██╗ ██║███████║
+██║╚██╔╝██║██╔══██║██╔══██╗██║██╔══██║██║╚██╗██║██╔══██║
+██║ ╚═╝ ██║██║  ██║██║  ██║██║██║  ██║██║ ╚████║██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+```
 
 **Accessibility Specialist & Digital Architect**
 
-[![Portfolio](https://img.shields.io/badge/portfolio-marianamarinflor.com-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://www.marianamarinflor.com)
-[![Evolve](https://img.shields.io/badge/máster-ciberseguridad_&_ia-7C3AED?style=flat-square&logo=shield&logoColor=white)](https://evolve.es/formacion/masters/master-ciberseguridad-inteligencia-artificial-online/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-mariana_marín-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-marin-1b6268348/)
-[![Email](https://img.shields.io/badge/email-infomarianamarin@gmail.com-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:infomarianamarin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=F5F5F5)](https://www.marianamarinflor.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=F5F5F5)](https://www.linkedin.com/in/mariana-marin-1b6268348/)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=F5F5F5)](mailto:infomarianamarin@gmail.com)
+[![Evolve](https://img.shields.io/badge/Evolve-8B1A2F?style=for-the-badge&logoColor=F5F5F5)](https://evolve.es/formacion/masters/master-ciberseguridad-inteligencia-artificial-online/)
 
-<br />
+![WCAG 2.1 AAA](https://img.shields.io/badge/WCAG_2.1-AAA_Certified-8B1A2F?style=flat-square&labelColor=111111&color=8B1A2F)
+![Fullstack](https://img.shields.io/badge/Fullstack-Developer-8B1A2F?style=flat-square&labelColor=111111&color=5C1020)
+![InfoSec](https://img.shields.io/badge/InfoSec-Specialist-8B1A2F?style=flat-square&labelColor=111111&color=A8213A)
+![Est.](https://img.shields.io/badge/Est.-2024-111111?style=flat-square&labelColor=0A0A0A)
+
+</div>
+
+---
 
 ## `> whoami`
 
-```bash
-mariana_marin
-├── role:     accessibility_specialist · digital_architect
-├── stack:    react · typescript · java · spring_boot · postgresql
-├── security: owasp · burp_suite · aes-256 · jwt · crypto
-├── quality:  wcag_2.1_aaa · playwright · jest · aria
-└── status:   building_inclusive_systems
+Soy una desarrolladora fullstack en la intersección del **Derecho**, la **Ciberseguridad** y la **Inteligencia Artificial**.  
+Mi enfoque no es solo que el software *funcione* — es que sea **universalmente navegable**, elimine barreras tecnológicas y cumpla con los estándares más rigurosos de privacidad e inclusión.
+
+```
+Derecho Digital  ──┐
+Ciberseguridad   ──┼──▶  Software accesible, seguro y normativo
+Inteligencia IA  ──┘
 ```
 
-Diseño y desarrollo de sistemas de software estables, ultra accesibles y con cumplimiento riguroso de normatividades WCAG 2.1 e integridad criptográfica.
+**Principios fundamentales:**
+- `Privacidad por Diseño (PbD)` — la seguridad no es un añadido, es arquitectura
+- `Inclusión Radical` — accesibilidad WCAG 2.1 AAA como requisito, no sugerencia
+- `Seguridad Ofensiva` — conocer el ataque para construir la defensa
 
-Mi trayectoria converge **Derecho**, **Ciberseguridad** e **IA**. Construyo software universalmente navegable — no solo funcional.
+---
 
-<br />
+## `> stack --list`
 
-## `> cat ./values.txt`
+<div align="center">
 
-| Principio | Descripción |
-| :--- | :--- |
-| **Privacy by Design** | Privacidad integrada desde la arquitectura, no como capa posterior |
-| **Radical Inclusion** | Accesibilidad WCAG 2.1 AAA como requisito, no como feature |
-| **Offensive Security** | Red Team mindset aplicado al ciclo de desarrollo |
+| Desarrollo | Seguridad | Calidad |
+| :---: | :---: | :---: |
+| ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=F5F5F5) ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=F5F5F5) | ![OWASP](https://img.shields.io/badge/OWASP-111111?style=flat-square&logo=owasp&logoColor=F5F5F5) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=flat-square&logo=portswigger&logoColor=F5F5F5) | ![Playwright](https://img.shields.io/badge/Playwright-111111?style=flat-square&logo=playwright&logoColor=F5F5F5) ![Jest](https://img.shields.io/badge/Jest-111111?style=flat-square&logo=jest&logoColor=F5F5F5) |
+| ![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=F5F5F5) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=F5F5F5) | ![JWT](https://img.shields.io/badge/JWT-111111?style=flat-square&logo=jsonwebtokens&logoColor=F5F5F5) ![AES-256](https://img.shields.io/badge/AES--256-8B1A2F?style=flat-square&logoColor=F5F5F5) | ![WCAG 2.1](https://img.shields.io/badge/WCAG_2.1-8B1A2F?style=flat-square) ![ARIA](https://img.shields.io/badge/ARIA-5C1020?style=flat-square) |
 
-<br />
+</div>
 
-## `> ls ./stack/`
+---
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Frontend** | React · TypeScript · Vite · CSS Modules |
-| **Backend** | Java · Spring Boot · REST · JWT · Maven |
-| **Data** | PostgreSQL · SQL |
-| **Security** | OWASP · Burp Suite · AES-256 · Crypto |
-| **Quality** | WCAG 2.1 AAA · Playwright · Jest · ARIA |
+## `> ls ./projects`
 
-<br />
+### ░ [Portfolio SPA](https://www.marianamarinflor.com)
 
-## `> ls ./projects/`
+> Single Page Application optimizada para screen readers con navegación semántica profunda.
+
+```
+Stack:  React · Spring Boot · ARIA-Live Regions
+Focus:  Accesibilidad cognitiva y motora, navegación por teclado
+Status: ✦ Producción
+```
+
+---
+
+### ░ [LoopIn](https://github.com/marianamarinflor622/LoopIn-Frontend)
+
+> Sistema de feedback corporativo con encriptación end-to-end y auditoría de accesibilidad integral.
+
+```
+Stack:  React · Vite · AES-256
+Focus:  Cifrado de mensajes, privacidad de datos corporativos
+Status: ✦ Completado
+```
+
+---
+
+### ░ [Athenix](https://github.com/marianamarinflor622/athenix-frontend)
+
+> Dashboard de monitoreo de red con visualización adaptada para daltonismo severo (conformidad WCAG AAA).
+
+```
+Stack:  React · Java · WCAG AAA
+Focus:  Accesibilidad visual avanzada, visualización de datos inclusiva
+Status: ◈ En desarrollo
+```
+
+---
+
+### ░ [Library Manager](https://github.com/marianamarinflor622/library)
+
+> Gestor bibliográfico robusto enfocado en la indexación de leyes y normativas técnicas.
+
+```
+Stack:  Java · Spring Boot · PostgreSQL
+Focus:  Indexación legal, búsqueda avanzada de normativas
+Status: ✦ Completado
+```
+
+---
+
+## `> cat ./education`
 
 ```yaml
-# portfolio-spa
-name:     Portfolio SPA
-url:      https://www.marianamarinflor.com
-stack:    React · Spring Boot · ARIA-Live
-focus:    SPA optimizada para screen readers con navegación semántica profunda
-status:   production
+formacion:
+  - titulo: "Máster en Ciberseguridad e Inteligencia Artificial"
+    institucion: Evolve
+    url: https://evolve.es/formacion/masters/master-ciberseguridad-inteligencia-artificial-online/
+    estado: CURSANDO
+    descripcion: >
+      Especialización en auditoría técnica de sistemas y
+      arquitecturas de redes neuronales seguras.
+
+  - titulo: "Grado en Derecho"
+    estado: COMPLETADO
+    descripcion: >
+      Enfoque en legislación digital, protección de datos y
+      derechos fundamentales en entornos tecnológicos.
 ```
 
-```yaml
-# loopin
-name:     LoopIn
-url:      https://github.com/marianamarinflor622/LoopIn-Frontend
-stack:    React · Vite · AES-256
-focus:    Sistema de feedback corporativo con encriptación end-to-end
-status:   active
-```
+---
 
-```yaml
-# athenix
-name:     Athenix
-url:      https://github.com/marianamarinflor622/athenix-frontend
-stack:    React · Java · WCAG AAA
-focus:    Dashboard de monitoreo con visualización adaptada para daltonismo severo
-status:   active
-```
+## `> github --stats`
 
-```yaml
-# library-manager
-name:     Library Manager
-url:      https://github.com/marianamarinflor622/library
-stack:    Java · Spring Boot · PostgreSQL
-focus:    Gestor bibliográfico para indexación de leyes y normativas técnicas
-status:   active
-```
+<div align="center">
 
-<br />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianamarinflor622&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=8B1A2F&icon_color=A8213A&text_color=A89F9F&ring_color=5C1020)
 
-## `> cat ./education.yml`
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianamarinflor622&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=8B1A2F&text_color=A89F9F)
 
-```yaml
-education:
-  - degree:   Máster en Ciberseguridad e IA
-    school:   Evolve
-    url:      https://evolve.es/formacion/masters/master-ciberseguridad-inteligencia-artificial-online/
-    focus:    Auditoría técnica · Red Team · Blue Team · IA aplicada · eJPT v2
-    status:   en_curso
+</div>
 
-  - degree:   Grado en Derecho
-    school:   —
-    focus:    Legislación digital · derechos fundamentales · análisis normativo
-    status:   completado
-```
+---
 
-<br />
-
-## `> git log --stat`
-
-<img src="https://github-readme-stats.vercel.app/api?username=marianamarinflor622&theme=dark&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&icon_color=7C3AED" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamarinflor622&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" alt="Top Languages" />
-
-<br />
-
-## `> echo $QUOTE`
+<div align="center">
 
 ```
-"Cada línea de código es una forma de construir un mundo más justo."
-— Mariana Marín · Digital Architect · Accessibility First
+"El software accesible no es una concesión —
+ es la única forma correcta de construir."
 ```
 
-<br />
+**`© 2024 Mariana Marín · Accessibility Specialist & Digital Architect`**
 
-<sub>© 2024 marianamarinflor622 · WCAG 2.1 AAA · Privacy by Design</sub>
+</div>
