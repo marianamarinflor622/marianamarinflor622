@@ -18,10 +18,30 @@
 
 <br /><br />
 
-[![Portfolio](https://img.shields.io/badge/portfolio-marianamarinflor.com-835369?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://www.marianamarinflor.com)
-[![Evolve](https://img.shields.io/badge/máster-ciberseguridad_&_ia-36212A?style=flat-square&logo=shield&logoColor=ffffff)](https://evolve.es/formacion/masters/master-ciberseguridad-inteligencia-artificial-online/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-mariana_marín-835369?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mariana-marin-1b6268348/)
-[![Email](https://img.shields.io/badge/email-infomarianamarin@gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:infomarianamarin@gmail.com)
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.marianamarinflor.com">
+        <img src="https://img.shields.io/badge/Portfolio-marianamarinflor.com-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=1a1a1a" alt="Portfolio" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://evolve.es/formacion/masters/master-ciberseguridad-inteligencia-artificial-online/">
+        <img src="https://img.shields.io/badge/Máster-Ciberseguridad_&_IA-1a1a1a?style=for-the-badge&logo=shield&logoColor=ffffff&labelColor=1a1a1a" alt="Evolve" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/mariana-marin-1b6268348/">
+        <img src="https://img.shields.io/badge/LinkedIn-Mariana_Marín-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1a1a1a" alt="LinkedIn" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:infomarianamarin@gmail.com">
+        <img src="https://img.shields.io/badge/Email-infomarianamarin@gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=1a1a1a" alt="Email" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
