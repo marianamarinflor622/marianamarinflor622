@@ -1,15 +1,8 @@
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ██████╗ ██╗ █████╗ ███╗   ██╗ █████╗
-████╗ ████║██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║██╔══██╗
-██╔████╔██║███████║██████╔╝██║███████║██╔██╗ ██║███████║
-██║╚██╔╝██║██╔══██║██╔══██╗██║██╔══██║██║╚██╗██║██╔══██║
-██║ ╚═╝ ██║██║  ██║██║  ██║██║██║  ██║██║ ╚████║██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
+<img src="https://raw.githubusercontent.com/marianamarinflor622/marianamarinflor622/main/banner.png" alt="Mariana Marín — Accessibility Specialist & Digital Architect" width="100%" />
 
-**Accessibility Specialist & Digital Architect**
+<br /><br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=F5F5F5)](https://www.marianamarinflor.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=F5F5F5)](https://www.linkedin.com/in/mariana-marin-1b6268348/)
